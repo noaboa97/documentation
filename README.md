@@ -6,7 +6,7 @@ Documentation for my HomeLab
 ### Fan ramping up 
 https://github.com/renedis/ubnt-auto-fan-speed <br/>
 https://www.reddit.com/r/UNIFI/comments/nzzu99/udmpro_fans_spinning_up_in_tiny_bursts_59c_cpu/
-
+# VPN
 ## MacOS VPN - Check if VPN should be established
 ### Run upon login (second solution)
 https://stackoverflow.com/questions/6442364/running-script-upon-login-in-mac-os-x
@@ -22,3 +22,6 @@ osascript -e 'tell application \"Tunnelblick\"' -e 'connect \"All_traffic_home\"
 
 ## MacOs VPN - Run scripts while a connection is up 
 https://tunnelblick.net/cUsingScripts.html
+
+## Windows
+https://stackoverflow.com/questions/61456939/how-can-one-use-the-command-line-to-use-openvpn-on-windows
