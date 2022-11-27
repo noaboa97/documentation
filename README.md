@@ -15,6 +15,10 @@ https://tunnelblick.net/cAppleScriptSupport.html
 ```
 osascript -e "tell application \"/Applications/Tunnelblick.app\"" -e "connect \"configuration-name\"" -e "end tell"
 ```
+Example:
+```
+osascript -e 'tell application \"Tunnelblick\"' -e 'connect \"All_traffic_home\"' -e 'end tell'
+```
 
 ## MacOs VPN - Run scripts while a connection is up 
 https://tunnelblick.net/cUsingScripts.html
